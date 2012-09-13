@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Productos de Temporada</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_detemporada">Productos de Temporada</string>
+    <string name="hello">Hola !!!</string>
+	<string name="lista_vacia">No hay elementos en la lista.</string>
+	<string name="boton_fruta">Frutas</string>
+	<string name="boton_pescado">Pescados y Mariscos</string>
+	<string name="boton_verdura">Verduras</string>
+	<string name="boton_frutos_secos">Frutos Secos</string>
+	<string name="boton_carne">Carnes</string>
+	<string name="DescricionImagen">Descripcion Imagen</string>
+</resources>
